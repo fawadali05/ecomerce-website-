@@ -1,0 +1,18 @@
+# Root
+.env
+.vscode/
+.DS_Store
+npm-debug.log*
+
+# Server
+server/node_modules/
+server/.env
+
+# Client
+client/node_modules/
+client/.env
+client/dist/
+
+# Build/coverage
+dist/
+coverage/

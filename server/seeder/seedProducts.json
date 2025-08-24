@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Classic Tee",
+    "brand": "Fawad",
+    "category": "Clothing",
+    "description": "Soft cotton tee",
+    "price": 19.99,
+    "countInStock": 50,
+    "image": "https://images.unsplash.com/photo-1520975693416-35a4486dc5d9?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "name": "Sport Watch",
+    "brand": "Fawad",
+    "category": "Accessories",
+    "description": "Water resistant 50m",
+    "price": 59.99,
+    "countInStock": 30,
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "name": "Leather Bag",
+    "brand": "Fawad",
+    "category": "Bags",
+    "description": "Premium leather shoulder bag",
+    "price": 129.0,
+    "countInStock": 15,
+    "image": "https://images.unsplash.com/photo-1592878904946-b3cd5bd5ccb9?q=80&w=1200&auto=format&fit=crop"
+  }
+]
